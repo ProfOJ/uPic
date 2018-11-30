@@ -1,2 +1,2 @@
 # uPic
-A USSD photo sharing systemf
+A USSD photo sharing system
